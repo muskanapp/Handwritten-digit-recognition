@@ -1,5 +1,5 @@
 # Handwritten-digit-recognition
-![working-model](https://github.com/muskanapp/Handwritten-digit-recognition/blob/master/GIF-200803_060503.gif)
+![working-model](https://github.com/muskanapp/Handwritten-digit-recognition/blob/master/GIF-200803_061436.gif) 
 * Digit recognition system is the working of a machine to train itself or recognizing the digits from different sources like emails, bank cheque, papers, images, etc. and in different real-world scenarios for online handwriting recognition on computer tablets or system, recognize number plates of vehicles, processing bank cheque amounts, numeric entries in forms filled up by hand (say-tax forms) and so on.
 * First I have done some exploratory data analysis to discover certain features of the data.Then with a little pre-processing and re-shaping of the data,I have made the data fit for CNN model.
 * I have first tried a logistic regression model which gave a 91% accuracy,the I have tried a basic CNN model which gave aroun 99% accuracy and finally a well built CNN which gave around 99.6% accuracy.
