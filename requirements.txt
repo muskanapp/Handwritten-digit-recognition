@@ -26,7 +26,7 @@ cryptography==3.3.2
 cycler==0.10.0
 Cython==0.28.2
 cytoolz==0.9.0.1
-dask==0.17.5
+dask==2021.10.0
 decorator==4.3.0
 setuptools==39.1.0
 docutils==0.14
